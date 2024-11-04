@@ -79,6 +79,12 @@ All source code which is *packaged* may or may not be set with the password 'inf
   - Rootkits
   - Stealers
 
+## Ephemeral Environments For testing Via Docker
+
+1. For linux you can pull down a vast number of linux images already on [dockerhub](https://hub.docker.com/search?q=linux)
+2. [Windows](https://hub.docker.com/r/dockurr/windows) - Spin up windows environment using docker. 
+3. [Mac](https://hub.docker.com/r/dockurr/macos) - Spin up a MAC environment on legally approved devices. 
+
 ## Contributors
 [Marius 'f0wL' Genheimer](https://twitter.com/f0wlsec)  
 [Jan 'Duchy' Neduchal](https://twitter.com/DuchyRE)  
